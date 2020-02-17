@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee28c5ac-769b-4b0f-b542-d7e270341d4d" name="Default Changelist" comment="" />
+    <list default="true" id="ee28c5ac-769b-4b0f-b542-d7e270341d4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/projects.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X6k6HMC6wllkxTzee0PYwxUt0d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-app-ToDo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -104,7 +115,8 @@
       <workItem from="1581566039956" duration="9228000" />
       <workItem from="1581649740532" duration="13211000" />
       <workItem from="1581920168452" duration="155000" />
-      <workItem from="1581920783838" duration="8930000" />
+      <workItem from="1581920783838" duration="10706000" />
+      <workItem from="1581940608636" duration="1434000" />
     </task>
     <servers />
   </component>
@@ -128,10 +140,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581925618690" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581649740945">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581940611108">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581649740945" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581940611108" />
     <state x="362" y="127" width="709" height="538" key="find.popup" timestamp="1580469240398">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

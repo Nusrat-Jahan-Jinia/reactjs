@@ -26,12 +26,11 @@ export class Projects extends Component{
     }
 
     render() {
-        const {projects} = this.state;
-        const numbers = [1, 2, 3, 4, 5];
+        // const {projects} = this.state;
         return (
             <ProjectConsumer>
                 {value=>{
-                    // const {projects} = value.state.projects;
+                    const {projects} = value;
                     console.log(projects);
                     return(
             <div className="project-hidden">
