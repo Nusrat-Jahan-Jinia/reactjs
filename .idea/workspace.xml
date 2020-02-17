@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee28c5ac-769b-4b0f-b542-d7e270341d4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X6k6HMC6wllkxTzee0PYwxUt0d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-app-ToDo" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/NewTodo" />
+      <recent name="$PROJECT_DIR$/src/components/Todo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/NewTodo/" />
+      <recent name="$PROJECT_DIR$/src/components/NewTodo" />
+      <recent name="$PROJECT_DIR$/src/components/layout" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee28c5ac-769b-4b0f-b542-d7e270341d4d" name="Default Changelist" comment="" />
+      <created>1580373754349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580373754349</updated>
+      <workItem from="1580373756167" duration="1341000" />
+      <workItem from="1580382547193" duration="750000" />
+      <workItem from="1580383617610" duration="4000" />
+      <workItem from="1580436068875" duration="28612000" />
+      <workItem from="1580701077501" duration="16291000" />
+      <workItem from="1580783021343" duration="19702000" />
+      <workItem from="1580869207177" duration="26080000" />
+      <workItem from="1580961516982" duration="21675000" />
+      <workItem from="1581043659576" duration="19338000" />
+      <workItem from="1581313159475" duration="4000" />
+      <workItem from="1581313187166" duration="42000" />
+      <workItem from="1581313259675" duration="69000" />
+      <workItem from="1581313363054" duration="1796000" />
+      <workItem from="1581315519596" duration="1361000" />
+      <workItem from="1581317476688" duration="1555000" />
+      <workItem from="1581319561749" duration="1794000" />
+      <workItem from="1581321376121" duration="1793000" />
+      <workItem from="1581323186342" duration="1794000" />
+      <workItem from="1581325118949" duration="1467000" />
+      <workItem from="1581327359706" duration="1539000" />
+      <workItem from="1581329181053" duration="1383000" />
+      <workItem from="1581330582089" duration="1793000" />
+      <workItem from="1581332397996" duration="1791000" />
+      <workItem from="1581334207599" duration="1793000" />
+      <workItem from="1581336138902" duration="642000" />
+      <workItem from="1581388553882" duration="1613000" />
+      <workItem from="1581390344484" duration="1793000" />
+      <workItem from="1581392157828" duration="1892000" />
+      <workItem from="1581395747450" duration="1399000" />
+      <workItem from="1581397554730" duration="1793000" />
+      <workItem from="1581399366204" duration="1990000" />
+      <workItem from="1581401385748" duration="1792000" />
+      <workItem from="1581403198141" duration="697000" />
+      <workItem from="1581405950096" duration="1795000" />
+      <workItem from="1581407762862" duration="1980000" />
+      <workItem from="1581409970463" duration="42000" />
+      <workItem from="1581410431797" duration="1020000" />
+      <workItem from="1581412520232" duration="7984000" />
+      <workItem from="1581493659483" duration="4679000" />
+      <workItem from="1581559810953" duration="608000" />
+      <workItem from="1581566039956" duration="9228000" />
+      <workItem from="1581649740532" duration="13211000" />
+      <workItem from="1581920168452" duration="155000" />
+      <workItem from="1581920783838" duration="8930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580987155088">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1580987155088" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581411060211">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581411060211" />
+    <state x="390" y="77" width="642" height="639" key="#projects.js" timestamp="1581671833371">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="77" width="642" height="639" key="#projects.js/67.27.1299.741@67.27.1299.741" timestamp="1581671833371" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581925618690">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581925618690" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581649740945">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581649740945" />
+    <state x="362" y="127" width="709" height="538" key="find.popup" timestamp="1580469240398">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="362" y="127" width="709" height="538" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1580469240398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Todo/projectform.js</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
